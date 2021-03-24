@@ -6,7 +6,7 @@
 
 /**
  *
- * @author b09-07t
+ * @author Sergio
  */
 public class CuartoFichero {
     
